@@ -1,0 +1,11 @@
+venv
+/myenv
+/runs
+/stubs
+/input_videos
+/output_videos
+/models
+/output_images
+/training
+/models
+yolov8x.pt
